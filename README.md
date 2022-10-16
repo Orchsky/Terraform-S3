@@ -16,3 +16,12 @@
 - export environmental variables (check recording of class)
 - Setup your directory and check in main.tf file
 - Write provider configurations
+- Begin writing resources
+
+#### Commands
+- terraform init --> one time use when first initializing code for the first time
+- terraform fmt --> use to align your code so that the spacing is properly centered
+- terraform validate --> use to test code first
+- terraform plan --> use after validate, this will show what will be created, updated or deleted
+- terraform apply --> if all looks good and is confirmed to proceed then use this command to provision the resources
+- terraform destroy --> use this at the end when you wish to clean up all of your resources
