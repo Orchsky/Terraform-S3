@@ -1,2 +1,3 @@
-*.tfstate*
-*.tfstate.*
+version https://git-lfs.github.com/spec/v1
+oid sha256:046a241c3b40f6622e5baf1efcd8a36fca9b198faba5de83689dadebb001fac6
+size 22
